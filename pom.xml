@@ -67,8 +67,8 @@
   </build>
  <distributionManagement>
     <snapshotRepository>
-      <id>nexus-build</id>
-      <url>http://ec2-18-223-168-139.us-east-2.compute.amazonaws.com:8081/repository/nexus-build/</url>
+      <id>nexus-snap</id>
+      <url>http://ec2-18-223-168-139.us-east-2.compute.amazonaws.com:8081/repository/nexus-snap/</url>
     </snapshotRepository>
  </distributionManagement>
 
