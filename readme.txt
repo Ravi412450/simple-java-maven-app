@@ -1,1 +1,1 @@
-this is a simple web caculator
+this is a simple web caculator for integer addition
